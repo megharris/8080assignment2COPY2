@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_URL = 'pzbmeg.pythonanywhere.com'*/
+const API_URL = 'pzbmeg.pythonanywhere.com/'*/
 
 export class APIService {
   constructor() {
